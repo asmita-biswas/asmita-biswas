@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Asmita Biswas
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdnOGt4aXp4OXJoNnFlaHRuY2l3NjljejJ5bnlrdGlpdHJza2liMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wOVI5wW1cSzWfU0rLj/giphy.gif" alt="developer" style="max-width: 100%; height: auto; border-radius: 15px; display: block;"/> 
+<img src="https://i.pinimg.com/736x/30/ff/a5/30ffa50b9515128345d999d3fbd73961.jpg" alt="developer" style="max-width: 100%; height: auto; border-radius: 15px; display: block;"/> 
 
 <!--
 **asmita-biswas/asmita-biswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **I and JavaScript share the same Date! IYKYK** 
 
 
+<h3>Connect with Me</h3>
 
+<a align="center" href="https://linkedin.com/in/asmitabiswas/" target="blank">
+  <img align="center" src="https://i.pinimg.com/736x/0c/78/d0/0c78d03cbfa19d5f3d7ad1b6e49f957b.jpg" height="30" width="30" />
+</a>
