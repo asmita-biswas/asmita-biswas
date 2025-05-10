@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Asmita Biswas
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdnOGt4aXp4OXJoNnFlaHRuY2l3NjljejJ5bnlrdGlpdHJza2liMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wOVI5wW1cSzWfU0rLj/giphy.gif" alt="developer" style="max-width: 100%; height: auto; border-radius: 15px; display: block;"/> 
+
 <!--
 **asmita-biswas/asmita-biswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
