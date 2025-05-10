@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <h3>Connect with Me</h3>
 
 <a align="center" href="https://linkedin.com/in/asmitabiswas/" target="blank">
-  <img align="center" src="https://i.pinimg.com/736x/0c/78/d0/0c78d03cbfa19d5f3d7ad1b6e49f957b.jpg" height="30" width="30" />
+  <img align="center" src="https://i.pinimg.com/736x/0c/78/d0/0c78d03cbfa19d5f3d7ad1b6e49f957b.jpg" height="50" width="50" />
 </a>
